@@ -1,5 +1,7 @@
 // Copyright 1998-2016 Epic Games, Inc. All Rights Reserved.
 
+// COMMENT TO TEST COMMITS - Rich
+
 #include "SharedProject.h"
 #include "Kismet/HeadMountedDisplayFunctionLibrary.h"
 #include "SharedProjectCharacter.h"
